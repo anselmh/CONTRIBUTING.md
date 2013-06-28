@@ -33,7 +33,7 @@ The following guidelines for contribution should be followed if you want to subm
 * Open a pull request to the original repository and choose the right original branch you want to patch.
 	_Advanced users may use [`hub`](https://github.com/defunkt/hub#git-pull-request) gem for that._
 * If not done in commit messages (which you really should do) please reference and update your issue with the code changes. But _please do not close the issue yourself_.
-_Notice: You can [turn your previously files issue into a pull-request here](http://issue2pr.herokuapp.com/)._
+_Notice: You can [turn your previously filed issues into a pull-request here](http://issue2pr.herokuapp.com/)._
 * Even if you have write access to the repository, do not directly push or merge pull-requests. Let another team member review your pull request and approve.
 
 # Additional Resources
